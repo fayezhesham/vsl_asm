@@ -2,27 +2,27 @@
 
 A data visualization tool written in **x86 Assembly** that draws dynamic Bar Charts, Scatter Plots, and Line Charts.
 ![Project Banner](screenshot.png)
-## 🚀 Features
+##  Features
 
 * **3 Chart Types:** Bar, Scatter, and Line (using Bresenham's algorithm).
 * **Auto-Scaling:** Automatically fits your data to the screen size.
 * **Interactive:** Menu-driven interface for custom data input.
 
-## 🛠️ Prerequisites
+##  Prerequisites
 
 To run this easily on modern Windows, use **GUI Turbo Assembler**.
 
 * **Download:** [GUI Turbo Assembler (SourceForge)](https://sourceforge.net/projects/guitasm/)
 * *Note: This tool bundles the assembler (TASM), linker (TLINK), and emulator (DOSBox) into one button press.*
 
-## 💻 How to Run
+##  How to Run
 
 1.  **Install:** Download and install **GUI Turbo Assembler**.
 2.  **Open:** Launch the program.
 3.  **Code:** Copy the contents of `PROJECT.ASM` and paste it into the editor.
 4.  **Run:** Click the **Execute** button (or press `F9`).
 
-## 📖 How to Use
+##  How to Use
 
 Once the black console window appears:
 
@@ -38,12 +38,12 @@ Once the black console window appears:
 
 3.  **View:** The chart will appear on the screen. Press any key to exit.
 
-## 🧠 Technical Details
+##  Technical Details
 
 * **Language:** Assembly (TASM Syntax).
 * **Processor:** Intel 8086 (16-bit).
 * **Graphics:** VGA Mode 13h (Direct Video Memory Access).
 
-## 📄 License
+##  License
 
 Open-source project for educational use.
