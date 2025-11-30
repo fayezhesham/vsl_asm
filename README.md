@@ -12,7 +12,7 @@ A data visualization tool written in **x86 Assembly** that draws dynamic Bar Cha
 
 To run this easily on modern Windows, use **GUI Turbo Assembler**.
 
-* **Download:** [GUI Turbo Assembler (SourceForge)](https://sourceforge.net/projects/guitasm/)
+* **Download:** [GUI Turbo Assembler (SourceForge)](https://sourceforge.net/projects/guitasm8086/)
 * *Note: This tool bundles the assembler (TASM), linker (TLINK), and emulator (DOSBox) into one button press.*
 
 ##  How to Run
